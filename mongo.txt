@@ -1,0 +1,1 @@
+mongosh "mongodb+srv://cluster0.0rsnf.mongodb.net/myFirstDatabase" --username Hectorplinio
